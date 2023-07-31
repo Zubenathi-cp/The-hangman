@@ -1,0 +1,21 @@
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\bin\Debug\The HangMan 2.exe.config
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\bin\Debug\The HangMan 2.exe
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\bin\Debug\The HangMan 2.pdb
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\obj\Debug\The HangMan 2.csproj.AssemblyReference.cache
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\obj\Debug\The_HangMan_2.Form1.resources
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\obj\Debug\The_HangMan_2.Properties.Resources.resources
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\obj\Debug\The HangMan 2.csproj.GenerateResource.cache
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\obj\Debug\The HangMan 2.csproj.CoreCompileInputs.cache
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\obj\Debug\The HangMan 2.exe
+C:\Users\PE.2021.J0H9X1\source\repos\The HangMan 2\obj\Debug\The HangMan 2.pdb
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\bin\Debug\The HangMan 2.exe.config
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\bin\Debug\The HangMan 2.exe
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\bin\Debug\The HangMan 2.pdb
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\obj\Debug\The HangMan 2.csproj.AssemblyReference.cache
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\obj\Debug\The HangMan 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\obj\Debug\The_HangMan_2.Form1.resources
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\obj\Debug\The_HangMan_2.Properties.Resources.resources
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\obj\Debug\The HangMan 2.csproj.GenerateResource.cache
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\obj\Debug\The HangMan 2.csproj.CoreCompileInputs.cache
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\obj\Debug\The HangMan 2.exe
+C:\Users\pe.2021.j0h9x1\OneDrive - Eduvos\Documents\Basic c# Project\The HangMan 2\obj\Debug\The HangMan 2.pdb
