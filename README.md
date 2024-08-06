@@ -15,7 +15,7 @@ Welcome to the Hangman Game repository! This project is a classic Hangman game d
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/hangman-game.git
+    git clone https://github.com/Zubenathi-cp/The-hangman.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -42,4 +42,4 @@ We welcome contributions from the community! If you have suggestions for new fea
 
 
 ## Contact
-For any questions or feedback, please contact us at [zubenathimateza73@gmail.com](mailto:your-email@example.com).
+For any questions or feedback, please contact us at [zubenathimateza73@gmail.com](mailto:zubenathimateza73@gmail.com).
